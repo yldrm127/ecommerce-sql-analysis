@@ -1,0 +1,1 @@
+select count(id) as count_order from orders

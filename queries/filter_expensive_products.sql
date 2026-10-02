@@ -1,0 +1,1 @@
+select name from products where price >1000

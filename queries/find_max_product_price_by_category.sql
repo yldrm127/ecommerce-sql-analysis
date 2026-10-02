@@ -1,0 +1,1 @@
+select category_id ,max(price) as max_price from products  group by category_id 

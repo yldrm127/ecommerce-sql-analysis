@@ -1,0 +1,1 @@
+select category_id ,avg(price) as avg_price from products  group by category_id 
