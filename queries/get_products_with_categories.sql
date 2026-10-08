@@ -1,0 +1,1 @@
+select products.name   ,categories.name as category_name from products join categories  on products.category_id =categories.id 
